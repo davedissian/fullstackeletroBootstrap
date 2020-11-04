@@ -32,10 +32,10 @@ if (isset($_POST['nome']) && isset($_POST['email']) && isset($_POST['msg'])) {
                 <br>
             <div class="row">
                 <div class="col text-center">
-                    <h4><img src="./midia/email.png"> contato@fullstackeletro.com.br</h4>
+                    <h4><img src="email.png"> contato@fullstackeletro.com.br</h4>
                 </div>
                 <div class="col text-center">
-                    <h4><img src="./midia/whats.png"> (11)99999-0000</h4>
+                    <h4><img src="whats.png"> (11)99999-0000</h4>
                 </div>
             </div>
              <center>
